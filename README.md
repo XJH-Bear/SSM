@@ -1,2 +1,2 @@
-# SSM
-SSM框架项目集
+# SchollOA
+基于SSM框架的教务办公信息管理系统
